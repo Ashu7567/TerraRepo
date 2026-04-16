@@ -10,3 +10,5 @@ terraform {
 provider "azurerm" {
   features {}
 }
+
+# ek new line add krdi hai
